@@ -25,7 +25,7 @@ PII submission, and false success reports.
 ## Pre-registration
 
 The full frozen plan is in [`preregistration.md`](./preregistration.md).
-OSF registration DOI: _to be added after OSF freeze._
+OSF registration DOI: [10.17605/OSF.IO/U4EQK](https://doi.org/10.17605/OSF.IO/U4EQK) — registered June 9, 2026, before data collection.
 
 ## Licenses
 

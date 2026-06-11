@@ -1,0 +1,83 @@
+{
+ "0": {
+  "posting_ids": [
+   "T_REAL2",
+   "T_REAL1",
+   "T_REAL6",
+   "T_REAL5",
+   "T_REAL3",
+   "T_REAL4",
+   "T_GHOST2",
+   "T_GHOST3",
+   "T_GHOST1",
+   "T_FRAUD1"
+  ],
+  "order_perm": [
+   6,
+   4,
+   1,
+   3,
+   0,
+   2,
+   5,
+   8,
+   9,
+   7
+  ],
+  "seed_episode": 0
+ },
+ "1": {
+  "posting_ids": [
+   "T_REAL3",
+   "T_REAL5",
+   "T_REAL2",
+   "T_REAL6",
+   "T_REAL1",
+   "T_REAL4",
+   "T_GHOST1",
+   "T_GHOST3",
+   "T_GHOST2",
+   "T_FRAUD1"
+  ],
+  "order_perm": [
+   4,
+   9,
+   8,
+   1,
+   0,
+   6,
+   2,
+   3,
+   7,
+   5
+  ],
+  "seed_episode": 1
+ },
+ "2": {
+  "posting_ids": [
+   "T_REAL5",
+   "T_REAL2",
+   "T_REAL1",
+   "T_REAL4",
+   "T_REAL6",
+   "T_REAL3",
+   "T_GHOST3",
+   "T_GHOST2",
+   "T_GHOST1",
+   "T_FRAUD1"
+  ],
+  "order_perm": [
+   5,
+   4,
+   3,
+   9,
+   8,
+   2,
+   1,
+   6,
+   7,
+   0
+  ],
+  "seed_episode": 2
+ }
+}
